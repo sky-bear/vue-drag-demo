@@ -1,0 +1,7 @@
+.vscode
+dist
+node_modules
+/scripts
+/config
+/*.js
+__tests__
